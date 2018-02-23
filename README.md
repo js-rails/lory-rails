@@ -1,4 +1,8 @@
 # Lory::Rails
+[![Gem Version](https://badge.fury.io/rb/lory-rails.svg)](https://rubygems.org/gems/lory-rails) 
+[![Downloads](https://img.shields.io/gem/dt/lory-rails.svg)](https://rubygems.org/gems/lory-rails)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tanvir002700/lory-rails/master.svg)](https://github.com/tanvir002700/lory-rails)
+[![license](https://img.shields.io/github/license/tanvir002700/lory-rails.svg)](https://github.com/tanvir002700/lory-rails/blob/master/LICENSE)
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/lory/rails`. To experiment with that code, run `bin/console` for an interactive prompt.
 
