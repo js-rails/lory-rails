@@ -25,7 +25,7 @@ Or install it yourself as:
     $ gem install lory-rails
     
 And then edit your app/assets/stylesheets/application.js file to look something like:
-
+``` css
 /*
 *= require_self
 *= require jqeury
@@ -33,16 +33,18 @@ And then edit your app/assets/stylesheets/application.js file to look something 
 *= require lory
 *= require_tree .
 */
-lory-rails is dependant on jQuery, so make sure you have it in your Gemfile.
+```
+
+**lory-rails is dependant on jQuery, so make sure you have it in your Gemfile.**
 
 And to your app/assets/stylesheets/application.css
-
+``` css
 *= require lory
 
 
 ## Usage
 
-TODO: Write usage instructions here
+View [lory](http://meandmax.github.io/lory) for complete useage information.
 
 ## Development
 
