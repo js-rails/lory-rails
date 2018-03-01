@@ -23,6 +23,22 @@ And then execute:
 Or install it yourself as:
 
     $ gem install lory-rails
+    
+And then edit your app/assets/stylesheets/application.js file to look something like:
+
+/*
+*= require_self
+*= require jqeury
+*= require jquery-ui
+*= require lory
+*= require_tree .
+*/
+lory-rails is dependant on jQuery, so make sure you have it in your Gemfile.
+
+And to your app/assets/stylesheets/application.css
+
+*= require lory
+
 
 ## Usage
 
