@@ -37,12 +37,6 @@ And then edit your app/assets/stylesheets/application.js file to look something 
 
 **lory-rails is dependant on jQuery, so make sure you have it in your Gemfile.**
 
-And to your app/assets/stylesheets/application.css
-``` css
-*= require lory
-```
-
-
 ## Usage
 
 View [lory](http://meandmax.github.io/lory) for complete useage information.
