@@ -40,6 +40,7 @@ And then edit your app/assets/stylesheets/application.js file to look something 
 And to your app/assets/stylesheets/application.css
 ``` css
 *= require lory
+```
 
 
 ## Usage
