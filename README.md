@@ -4,9 +4,9 @@
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/tanvir002700/lory-rails/master.svg)](https://github.com/tanvir002700/lory-rails)
 [![license](https://img.shields.io/github/license/tanvir002700/lory-rails.svg)](https://github.com/tanvir002700/lory-rails/blob/master/LICENSE)
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/lory/rails`. To experiment with that code, run `bin/console` for an interactive prompt.
+This gem packages the Jquery lory plugin. So you never have to download a custom package through the web interface again.
 
-TODO: Delete this and the text above, and describe your gem
+See VERSIONS.md to see which versions of lory-rails bundle which versions of lory.
 
 ## Installation
 
