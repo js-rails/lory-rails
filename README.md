@@ -35,6 +35,17 @@ And then edit your app/assets/stylesheets/application.js file to look something 
 */
 ```
 
+Integration as a jQuery Plugin add jquery.lory
+``` css
+/*
+*= require_self
+*= require jqeury
+*= require jquery-ui
+*= require jquery.lory
+*= require_tree .
+*/
+```
+
 **lory-rails is dependant on jQuery, so make sure you have it in your Gemfile.**
 
 ## Usage
